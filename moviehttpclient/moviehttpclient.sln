@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32804.467
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "moviehttpclient", "moviehttpclient\moviehttpclient.csproj", "{8D43D300-2172-479F-AF4D-4E7BC2F1F927}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8D43D300-2172-479F-AF4D-4E7BC2F1F927}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D43D300-2172-479F-AF4D-4E7BC2F1F927}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D43D300-2172-479F-AF4D-4E7BC2F1F927}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D43D300-2172-479F-AF4D-4E7BC2F1F927}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63119BBB-DE59-4F10-9425-96DEF153812B}
+	EndGlobalSection
+EndGlobal
